@@ -14,5 +14,29 @@ The Librosa library is a popular Python package for analyzing and processing aud
 The accuracy of the classification model is evaluated using a test set of audio recordings, which have not been seen by the model during training. The project also includes visualization of the MFCCs of the audio files, allowing for a better understanding of the characteristics of each letter.
 
 The Akshar Audio Classification project has the potential to be used in a variety of applications, such as speech recognition systems, language learning software, and accessibility tools for individuals with hearing impairments
+## Contributors
 
+<table>
+<tr align="center">
+
+
+<td>
+
+Lakshmi Mani Shankar
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/91583687?s=400&u=0b12e9a254a9f85deb2ba2647eeac55ff4ca0f48&v=4"  height="120" alt="Kruthi M">
+</p>
+<p align="center">
+<a href = "https://github.com/Manishankar9977"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/lakshmi-mani-shankar-34575a226/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+
+
+</tr>
+  </table>
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
