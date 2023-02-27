@@ -1,4 +1,8 @@
-# Akshar_Audio_Classification
+
+<p>
+<img src ="https://user-images.githubusercontent.com/91583687/221631234-ca7b2220-29fa-4706-83e5-d59dd8ee8716.png" height=100 width=1000>
+</p>
+
 
 
 Akshar Audio Classification is a project focused on classifying audio recordings of Hindi letters using the Librosa library to extract the Mel Frequency Cepstral Coefficients (MFCCs) from each audio file. The dataset used in this project consists of over 1000 audio recordings of each Hindi letter, providing a comprehensive and diverse sample set.
